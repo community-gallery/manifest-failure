@@ -1,8 +1,8 @@
 
 {
-	"name": "manifest_failing",
+	"name": "a     b cccccccccdddddddddddeeeeeeeeeefffffggggghhiiiiijjjjkkkkllllmnnnnnnnnnnnnooopqrst",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Blah blah blah",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/EricJackson314/manifest_testing.git",
