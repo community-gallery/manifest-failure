@@ -1,13 +1,8 @@
 
 {
-	"name": "",
+	"name": "testing",
 	"version": "1.0.0",
-	"description": "",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/EricJackson314/manifest_testing.git",
-		"branch": "main"
-	},
+	"description": "test test test",
 	"authors": [
 		{
 			"name": "Eric Jackson",
@@ -18,7 +13,6 @@
 			"url": "https://en.wikipedia.org/wiki/Grace_Hopper"
 		}
 	],
-	"license": "MIT",
 	"category": "testing",
 	"platforms": [ "cypress", "cyw943907aeval1f", "cyw954907aeval1f", "xmc4800" ]
 }
