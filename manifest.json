@@ -1,8 +1,8 @@
 
 {
-	"name": "manifest failing",
+	"name": "",
 	"version": "1.0.0",
-	"description": "Blah blah blah",
+	"description": "",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/EricJackson314/manifest_testing.git",
